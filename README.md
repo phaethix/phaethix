@@ -6,7 +6,7 @@
 Backend engineer @ Tencent · Shenzhen  
 Building systems, and exploring AI agents.
 
-[Blog](https://aldalee.netlify.app) · [GitHub](https://github.com/phaethix)
+[Blog](https://phaethix.github.io/pragmatic-notes) · [GitHub](https://github.com/phaethix)
 
 </div>
 
