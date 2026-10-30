@@ -1,9 +1,9 @@
 <div align="left">
 
 
-### Hi, I'm cosmoli
+## Hi, I'm cosmoli!👋
 
-Backend engineer @ Tencent · Shenzhen  
+Backend engineer @**Tencent** · Shenzhen  
 Building systems, and exploring AI agents.
 
 [Blog](https://phaethix.github.io/pragmatic-notes) · [GitHub](https://github.com/phaethix)
